@@ -1,5 +1,5 @@
 # Information
-Githubを使う上での規約・説明など
+Githubを使う上での規約・説明など  
 //TODO: 内容が増えてきたら最重要以外はWikiに移行
 
 # README.mdやwikiの編集について
@@ -32,6 +32,6 @@ Gitでバージョン管理しないファイル指定するためのファイ�
 + Unityの場合: Unity.gitignore
 
 
-#ユーザ権限
+# ユーザ権限
 
 基本memberで, 操作なれてきたらownerにするとか?
