@@ -35,3 +35,7 @@ Gitでバージョン管理しないファイル指定するためのファイ�
 # ユーザ権限
 
 基本memberで, 操作なれてきたらownerにするとか?
+
+# Slack
+
+チャンネルできました [slack](http://ARCircle.slack.com) 
