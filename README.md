@@ -13,7 +13,7 @@ Githubを使う上での規約・説明など
 
 + 基本Assetsはリポジトリに放り込んでCommitとかすればいいです
 + 重い(40~100M超える)ファイルについては外部サーバに挙げるとかしてください
-+ metafileとかは口述の.gitignoreを使って追跡対象としない(プロジェクト壊れちゃ＾～う)
++ metafileとかは後述の.gitignoreを使って追跡対象としない(プロジェクト壊れちゃ＾～う)
 + なぜプロジェクトが壊れるかはこのページがわかりやすいです. [Unityのプロジェクトはなぜ壊れるのか](http://madnesslabo.net/utage/?page_id=5640)
 
 # Gitignore
@@ -30,12 +30,14 @@ Gitでバージョン管理しないファイル指定するためのファイ�
 ### 使用する.gitignore 
 
 + Unityの場合: Unity.gitignore
-
++ 既存のレポジトリを参考にしてください
 
 # ユーザ権限
 
 基本memberで, 操作なれてきたらownerにするとか?
+ひとまず日野勢は全員owner
 
 # Slack
 
 チャンネルできました [slack](http://ARCircle.slack.com) 
+招待制なので参加したい場合は鈴木まで連絡ください
